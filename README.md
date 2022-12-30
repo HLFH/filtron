@@ -1,10 +1,13 @@
-# Filtron
+# Fork of Filtron
 
 Reverse HTTP proxy to filter requests by different rules.
 Can be used between production webserver and the application server to prevent abuse of the application backend.
 
 The original purpose of this program was to defend [searx](https://asciimoo.github.com/searx/), but it can be used to guard any web application.
 
+## Changes of this fork vs Filtron upstream
+
+Adding `go.sum` file so this can be easily packages for GNU/Linux distributions.
 
 ## Installation and setup
 
