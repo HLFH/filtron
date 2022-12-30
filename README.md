@@ -7,7 +7,7 @@ The original purpose of this program was to defend [searx](https://asciimoo.gith
 
 ## Changes of this fork vs Filtron upstream
 
-Adding `go.sum` file so this can be easily packages for GNU/Linux distributions.
+Adding `go.sum` file so this can be easily packaged for GNU/Linux distributions.
 
 ## Installation and setup
 
